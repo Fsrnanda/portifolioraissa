@@ -30,7 +30,8 @@ atividade 02
   
    tecnologia utilizada :
        java script
-       google script
+      
+         google script
           
       erros encontrados está em "calcula média".
           
