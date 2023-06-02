@@ -1,10 +1,25 @@
 # portifolioraissa
+ativade 01 
 
- ATIVIDADE 02
+ portifolio para dogumentos 
+ <h1> base html
 
+<h1>conteudo: html
+  
+  tecnologia usadas : 
+  
+  google script 
+  
+  descricao: arquivo que serve para site
+ 
+  dificuldade: resolver os codigos que esquecir de alguns
+
+
+
+atividade 02 
+ 
 <h1> projeto para calcular a média 
  
-
   arquivo : CALCULAR MEDIA
  
   <label>
