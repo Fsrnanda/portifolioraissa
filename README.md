@@ -29,9 +29,8 @@ atividade 02
         <body>
   
    tecnologia utilizada :
-       java script
-      
-         google script
+       java script e
+       google script
           
       erros encontrados está em "calcula média".
           
@@ -40,6 +39,6 @@ atividade 02
           descricao: Eu entendir atraves da aula dada que aprendemos como retornar a pagina , 
           alem disso o codigo dado para fazermos era pra nos saber calcular media .
           
-          link para acesso do projeto :https://script.google.com/home
+          link para acesso do projeto :https://script.google.com/macros/s/AKfycbyM53cDdSDu49C7NIL0a8uGFiNzX25hkiViN-OWztX7SbwSrJii8TTcdVh9MSsm-DI/exec
           
   
