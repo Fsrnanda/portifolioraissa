@@ -1,5 +1,9 @@
 # portifolioraissa
+
+ ATIVIDADE 02
+
 <h1> projeto para calcular a média 
+ 
 
   arquivo : CALCULAR MEDIA
  
