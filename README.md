@@ -36,11 +36,11 @@ ativade 01
           
       erros encontrados está em "calcula média".
           
-     dificuldade: foi para saber o resultado na exportação.
+   dificuldade: foi para saber o resultado na exportação.
       
-          descricao: Eu entendir atraves da aula dada que aprendemos como retornar a pagina , 
-          alem disso o codigo dado para fazermos era pra nos saber calcular media .
+   descricao: Eu entendir atraves da aula dada que aprendemos como retornar a pagina , 
+   alem disso o codigo dado para fazermos era pra nos saber calcular media .
           
-          link para acesso do projeto :https://script.google.com/macros/s/AKfycbyM53cDdSDu49C7NIL0a8uGFiNzX25hkiViN-OWztX7SbwSrJii8TTcdVh9MSsm-DI/exec
+   link para acesso do projeto :https://script.google.com/macros/s/AKfycbyM53cDdSDu49C7NIL0a8uGFiNzX25hkiViN-OWztX7SbwSrJii8TTcdVh9MSsm-DI/exec
           
   
