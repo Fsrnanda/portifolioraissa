@@ -18,7 +18,7 @@ ativade 01
 
 
  
-<h1> projeto para calcular a média 
+<h1>projeto para calcular a média</h1>
  
  atividade 02
  
