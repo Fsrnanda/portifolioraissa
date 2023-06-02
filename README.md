@@ -18,9 +18,10 @@ ativade 01
 
 
 
-atividade 02 
  
 <h1> projeto para calcular a média 
+ 
+ atividade 02
  
   arquivo : CALCULAR MEDIA
  
