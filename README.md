@@ -13,7 +13,7 @@ ativade 01
  
   dificuldade: resolver os codigos que esquecir de alguns
  
- link para acesso do projeto: file:///C:/Users/Sec%20RN/Desktop/RAISSA%20-%20Copia.html
+link para acesso do projeto: file:///C:/Users/Sec%20RN/Desktop/RAISSA%20-%20Copia.html
 
 
 
@@ -36,19 +36,31 @@ ativade 01
           
       erros encontrados está em "calcula média".
           
-   dificuldade: foi para saber o resultado na exportação.
+   dificuldade: foi para saber o resultado na exportação. que estava dando erro
       
    descricao: Eu entendir atraves da aula dada que aprendemos como retornar a pagina , 
-   alem disso o codigo dado para fazermos era pra nos saber calcular media .
+   alem disso o codigo dado para fazermos era pra nos saber calcular media . A media ponderada ela foi usada para diferençar entre receber
           
    link para acesso do projeto :https://script.google.com/macros/s/AKfycbyM53cDdSDu49C7NIL0a8uGFiNzX25hkiViN-OWztX7SbwSrJii8TTcdVh9MSsm-DI/exec
           
          atividade 03
          
          <h1>projeto para login</h1>
+         arquivo: login
          
+         <div id
+          <h1> email </h1> 
+     
+       tecnologia usada :
+       google script
+       function doGet
+       
+       erros emcontrados : "Password" pois eu utilizei como senha exemplo: "var senha = document.getElementById('password').value;"
+       
+
          
-         arquivo : login
+         https://script.google.com/macros/s/AKfycbzJHNSf5C8bXPUbIjDjv3ng1d2ULf4uBGhaHlG5Qcxu7QM4Zs--moZebt5TOy4cDYk8/exec
+       
          
          
          
