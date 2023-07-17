@@ -13,7 +13,8 @@ ativade 01
  
   dificuldade: resolver os codigos que esquecir de alguns
  
-link para acesso do projeto: file:///C:/Users/Sec%20RN/Desktop/RAISSA%20-%20Copia.html
+link para acesso do projeto: 
+https://script.google.com/macros/s/AKfycbxRHHG86R83FbxTvwWjFnNZBwGlocQ7qXnVl4YvdpETXKtbDM_rinUbVrvqrJmT_7cH/exec
 
 
 
@@ -59,7 +60,10 @@ link para acesso do projeto: file:///C:/Users/Sec%20RN/Desktop/RAISSA%20-%20Copi
        
 
          
-         https://script.google.com/macros/s/AKfycbzJHNSf5C8bXPUbIjDjv3ng1d2ULf4uBGhaHlG5Qcxu7QM4Zs--moZebt5TOy4cDYk8/exec
+  limk para acesso do projeto: 
+  https://script.google.com/macros/s/AKfycbyl7iMJZGa1RQbHttZb-3hqcBREAM3G45l_82-9Mvdo8ZZ15T9N_gjmsuVouPKnjRMF/exec
+
+      
        
          
          
@@ -83,8 +87,38 @@ link para acesso do projeto: file:///C:/Users/Sec%20RN/Desktop/RAISSA%20-%20Copi
          
          
          
-   <h1>projeto      
-         
+   
+   <h1>projeto</h1>
+
+         ATIVIDADE 4 
+
+Funções utilizadas: 
+Google script 
+Java.scritp 
+DoGet
+DoPost
+
+
+erros encontrados: o valor da media não encontra
+
+
+diculdades : apenas tive em encontrar o valor dos tres.
+
+
+Descrição: Atividade valendo ponto que é para mim , saber quantos litros Joana irá gastar para chegar até a casa da mãe dela , em seguida vou ter quer calcular o valor final com preço gasolina , consumo e distância!
+
+link para ter acesso ao projeto:
+https://script.google.com/macros/s/AKfycbwqZAF3qNsnzcZXNlzfi82WlfmlfeGENg7ziLGGb-afHyZcgb9aeLfKiRi3kj-2oitoqg/exec
+
+
+
+
+
+         <h1>projeto  para planilha</h1>
+     
+       
+       atividade 5
+       
          
          
          
