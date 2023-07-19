@@ -10,7 +10,7 @@ ativade 01
   
   descricao: arquivo que serve para site
  
-  dificuldade: resolver os codigos que esquecir de alguns
+  dificuldade: resolvir os codigos que esquecir de alguns
  
 link para acesso do projeto: 
 https://script.google.com/macros/s/AKfycbxRHHG86R83FbxTvwWjFnNZBwGlocQ7qXnVl4YvdpETXKtbDM_rinUbVrvqrJmT_7cH/exec
