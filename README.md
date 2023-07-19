@@ -6,8 +6,7 @@ ativade 01
  portifolio para dogumentos 
  
   tecnologia usadas : 
-  
-  google script 
+   google script 
   
   descricao: arquivo que serve para site
  
@@ -40,57 +39,60 @@ https://script.google.com/macros/s/AKfycbxRHHG86R83FbxTvwWjFnNZBwGlocQ7qXnVl4Yvd
    dificuldade: foi para saber o resultado na exportação. que estava dando erro
       
    descricao: Eu entendir atraves da aula dada que aprendemos como retornar a pagina , 
-   alem disso o codigo dado para fazermos era pra nos saber calcular media . A media ponderada ela foi usada para diferençar entre receber
+   alem disso o codigo dado para fazermos era pra nos saber calcular media . A media ponderada ela foi usada para diferençar entre receber, usamos juntos com o codigo de media ponderada pois eram codigos iguais praticamente
           
    link para acesso do projeto :https://script.google.com/macros/s/AKfycbyM53cDdSDu49C7NIL0a8uGFiNzX25hkiViN-OWztX7SbwSrJii8TTcdVh9MSsm-DI/exec
           
-         atividade 03
+       
          
-         <h1>projeto para login</h1>
-         arquivo: login
+
          
-         <div id
-          <h1> email </h1> 
-     
+         
+
+
+
+
+
+
+
+
+
+     <h1>projeto para login</h1>
+      atividade 3
+
+        arquivo: login
+         
        tecnologia usada :
        google script
        function doGet
-       
-       erros emcontrados : "Password" pois eu utilizei como senha exemplo: "var senha = document.getElementById('password').value;"
-       
 
-         
-  limk para acesso do projeto: 
+
+      descriçao:É através deles que os usuários efetuam login para ingressa em uma conta de e-mail, rede social, fórum, bancos virtuais 
+     e outros
+      
+       erros emcontrados : "Password" pois eu utilizei como senha exemplo: "var senha = document.getElementById('password').value;"  
+ 
+  link para acesso do projeto: 
   https://script.google.com/macros/s/AKfycbyl7iMJZGa1RQbHttZb-3hqcBREAM3G45l_82-9Mvdo8ZZ15T9N_gjmsuVouPKnjRMF/exec
 
       
        
+        
          
          
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
+
+
+
+
+
+
          
          
    
-   <h1>projeto</h1>
+   <h1>projeto para gasto</h1>
+   ATIVIDADE 4 
 
-         ATIVIDADE 4 
+   arquivo: gasto
 
 Funções utilizadas: 
 Google script 
@@ -114,10 +116,61 @@ https://script.google.com/macros/s/AKfycbwqZAF3qNsnzcZXNlzfi82WlfmlfeGENg7ziLGGb
 
 
 
-         <h1>projeto  para planilha</h1>
+   
+
+
+
+
+
      
-       
-       atividade 5
+     
+     <h1>projeto  para planilha</h1>
+     atividade 5
+
+     arquivo: planilha
+
+   funçoes utilizdas:
+   java.script
+   DoGet
+
+   Descriçao:
+ O clinte vai se conector ao servidor  , ele envia uma requisição =htpp
+ha 4 principais de tipo = Get , Post , Put , Deletd, 
+Elas são enviada para servidor (requisição)
+Isso serve para enviar paraa planilha do google paraa ficar salvo lá
+Fazemos uma tabela que serve para enviar os dados
+
+link para acesso ao projeto:
+https://script.google.com/macros/s/AKfycbxrPBksJLKu5hT2LveAnrb7cMdeX71Q1ASs_TDMU2B_1IMP67dkLabsJHzS8lRmHau9HQ/exec
+
+
+
+
+
+
+
+
+
+
+
+<h1>projeto para formulario</h1>
+atvidade 6 
+
+ arquivo: formulario
+
+funçoes utulizadas:
+DoGet
+dopost
+java.script
+
+descriçao:
+insira infomaçoes sobre treinamendo de algo , local , data de realizaçao
+ou informaçoes para o contato com a bibliotrca e quaisquer outras informaçoes.
+
+ diculdades: informar a informaçao do formulario
+
+ link para entrar:
+  https://script.google.com/macros/s/AKfycbwID6_R17-lmyqd8MG9xiyQ2QQ5z7fETL9j1DG9FXtlq_HY3gckWH7ra7JoHKtc9g6SQA/exec
        
          
          
