@@ -67,8 +67,7 @@ https://script.google.com/macros/s/AKfycbxRHHG86R83FbxTvwWjFnNZBwGlocQ7qXnVl4Yvd
        function doGet
 
 
-      descriçao:É através deles que os usuários efetuam login para ingressa em uma conta de e-mail, rede social, fórum, bancos virtuais 
-     e outros
+      descriçao:É através deles que os usuários efetuam login para ingressa em uma conta de e-mail, rede social, fórum, bancos virtuais  e outros
       
        erros emcontrados : "Password" pois eu utilizei como senha exemplo: "var senha = document.getElementById('password').value;"  
  
